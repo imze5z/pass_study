@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # ReverseCipher
 message = 'Threecankeepasecret,iftwoofthemaredead.'
 translated = ''

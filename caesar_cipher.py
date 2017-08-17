@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 message = 'This is my secret message'
 key = 13
 mode = 'encrypt'
