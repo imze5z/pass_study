@@ -17,6 +17,8 @@ def main():
     k = 5
     em = encrypt_message(k, m)
     print(em)
+    em = encrypt_message(len(m)/5, em)
+    print(em)
 
 if __name__ == '__main__':
     main()
